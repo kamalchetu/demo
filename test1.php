@@ -1,8 +1,10 @@
 <?php
 
 /**
- * @author Kamal S
- */
+ * 
+ * @author Kamal S\
+ * tests
+ */ 
 //trigger exception in a "try" block
 $log = 'kamal' . PHP_EOL;
 
